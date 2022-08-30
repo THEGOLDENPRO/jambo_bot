@@ -6,7 +6,7 @@ import GoldyBot
 
 AUTHOR = 'Dev Goldy'
 AUTHOR_GITHUB = 'https://github.com/THEGOLDENPRO'
-OPEN_SOURCE_LINK = ''
+OPEN_SOURCE_LINK = 'https://github.com/THEGOLDENPRO/jambo_bot/tree/main/src/modules/jambo'
 
 from . import utils
 
